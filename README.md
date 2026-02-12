@@ -21,6 +21,6 @@ I work on small-scale automation projects using **PLCs**, **HMIs**, and industri
 
 ### Let's connect
 
-- 📫 [LinkedIn](linkedin.com/in/julian-tamayo-a80b441b9) – Open to collaboration and remote roles  
+- 📫 [LinkedIn](https://linkedin.com/in/julian-tamayo-a80b441b9) – Open to collaboration and remote roles  
 - 📂 Portfolio (coming soon...)  
-- ✉️ Email: [Gmail](mailto:jtsam149@gmail.com)
+- ✉️ Email: [Gmail](mailto:jtsam149@gmail.com)[Gmail](mailto:jtsam149@gmail.com)
